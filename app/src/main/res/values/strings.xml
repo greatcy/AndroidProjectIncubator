@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidProjectIncubator</string>
+    <string name="btn_open">连接蓝牙音箱</string>
+    <string name="btn_plus_volume">+ ></string>
+    <string name="btn_reduce_volume"><![CDATA[< -]]></string>
+    <string name="btn_close">断开蓝牙音箱</string>
+
+    <string name="bluetooth_ble_not_support">当前设备不支持 BLE 连接</string>
+</resources>
